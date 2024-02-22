@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kavyaweek3/static/css/main.84055ee4.css",
+    "main.js": "/kavyaweek3/static/js/main.647f9781.js",
+    "static/js/592.54ede41b.chunk.js": "/kavyaweek3/static/js/592.54ede41b.chunk.js",
+    "index.html": "/kavyaweek3/index.html",
+    "main.84055ee4.css.map": "/kavyaweek3/static/css/main.84055ee4.css.map",
+    "main.647f9781.js.map": "/kavyaweek3/static/js/main.647f9781.js.map",
+    "592.54ede41b.chunk.js.map": "/kavyaweek3/static/js/592.54ede41b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84055ee4.css",
+    "static/js/main.647f9781.js"
+  ]
+}
