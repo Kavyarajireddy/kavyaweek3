@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/kavyaweek3/static/css/main.84055ee4.css",
-    "main.js": "/kavyaweek3/static/js/main.647f9781.js",
-    "static/js/592.54ede41b.chunk.js": "/kavyaweek3/static/js/592.54ede41b.chunk.js",
+    "main.css": "/kavyaweek3/static/css/main.db62923b.css",
+    "main.js": "/kavyaweek3/static/js/main.bc59dee4.js",
+    "static/js/453.62a95f41.chunk.js": "/kavyaweek3/static/js/453.62a95f41.chunk.js",
+    "static/media/studentimage1.jpg": "/kavyaweek3/static/media/studentimage1.76d478ce5bdedc8f9c19.jpg",
     "index.html": "/kavyaweek3/index.html",
-    "main.84055ee4.css.map": "/kavyaweek3/static/css/main.84055ee4.css.map",
-    "main.647f9781.js.map": "/kavyaweek3/static/js/main.647f9781.js.map",
-    "592.54ede41b.chunk.js.map": "/kavyaweek3/static/js/592.54ede41b.chunk.js.map"
+    "main.db62923b.css.map": "/kavyaweek3/static/css/main.db62923b.css.map",
+    "main.bc59dee4.js.map": "/kavyaweek3/static/js/main.bc59dee4.js.map",
+    "453.62a95f41.chunk.js.map": "/kavyaweek3/static/js/453.62a95f41.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84055ee4.css",
-    "static/js/main.647f9781.js"
+    "static/css/main.db62923b.css",
+    "static/js/main.bc59dee4.js"
   ]
 }
